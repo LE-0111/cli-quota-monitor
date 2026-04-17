@@ -10,6 +10,13 @@ The current version targets a Waveshare `ESP32-S3-RLCD-4.2` device and displays 
 - OpenAI Codex CLI
 - Gemini CLI
 
+## Product Preview
+
+<p align="center">
+  <img src="docs/preview-1.jpg" alt="CLI Quota Monitor preview 1" width="48%">
+  <img src="docs/preview-2.jpg" alt="CLI Quota Monitor preview 2" width="48%">
+</p>
+
 ## Features
 
 - local-only architecture, with the ESP32 polling a bridge on your own network
