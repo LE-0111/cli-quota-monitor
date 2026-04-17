@@ -1,6 +1,3 @@
-# Preview
-<img width="1707" height="1280" alt="微信图片_20260417094332_99_11" src="https://github.com/user-attachments/assets/6d9f0753-4c99-4b15-8fcd-bcb122fc984f" />
-
 # CLI Quota Monitor
 
 [中文说明](README.zh-CN.md)
