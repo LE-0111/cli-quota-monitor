@@ -1,0 +1,6 @@
+.DS_Store
+
+mac-bridge/logs/
+__pycache__/
+*.pyc
+*.log

@@ -1,0 +1,15 @@
+CLI Quota Monitor includes code derived from the following upstream project:
+
+- Project: ClaudeGauge
+- Upstream URL: https://github.com/dorofino/ClaudeGauge
+- Upstream license: MIT
+
+This distribution has been substantially modified, including changes to:
+
+- target hardware
+- IDE and build flow
+- UI and setup flow
+- data acquisition architecture
+- supported monitored services
+
+The presence of this notice does not imply endorsement by the upstream author.
